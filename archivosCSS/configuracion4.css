@@ -1,0 +1,24 @@
+/* configuracion especial para contacto*/
+#textos {
+    padding: 50px 50px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#textos div {
+    padding: 30px;
+    margin: 20px; 
+}
+.apartados {
+    text-align: left; 
+    margin-top: 20px; 
+}
+
+.apartados p {
+    font-size: 14px;  
+}
+
+.apartados a:hover {
+    color: #800080; /* Color morado fuerte al pasar el cursor */
+}
